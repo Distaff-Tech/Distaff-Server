@@ -87,7 +87,7 @@ WSGI_APPLICATION = 'DiStaff.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'distafff',
+        'NAME': 'distaff',
         'USER': 'root',
         'PASSWORD': 'root',
         'HOST': 'localhost', 
